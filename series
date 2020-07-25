@@ -1,0 +1,2 @@
+babi_multiprocess.diff # [trytond] babi multiprocess
+issue9103.diff # [trytond] User-defined reports for custom template extensions
